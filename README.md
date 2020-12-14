@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**Bandit-code/Bandit-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Bandit-code/Bandit-code** is ✨ _special_ ✨
+
+Here is a little about me:
 
 - 🔭 I’m currently working on ...
 - 🌱 HTML & PHP
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 - 📫 How to reach me: The Lost Bandits#7481
 - ⚡ Fun fact: What year was the most babies born? 2007
--->
+
