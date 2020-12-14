@@ -7,6 +7,7 @@ Here is a little about me:
 
 - 🔭 I’m currently working on ...
 - 🌱 HTML & PHP
+- 🌱 What do I know? Javascript
 - 👯 I’m looking to collaborate on a few projects
 - 🤔 I’m looking for help with N/A
 - 💬 Ask me about Anything
